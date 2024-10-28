@@ -15,7 +15,7 @@ Our group has explored these functionalities and documented all interactions, in
 - Raul Gonzalez - k2NaNm - @Cryptowolf 
 - kNohaF    - @LucasRohr 
 - AvgRax    - @Meet
-- XEGTvv    - @eratosthenessieve 
+- Marguerite Blair - XEGTvv    - @eratosthenessieve 
 - crg7DC - @hagi 
 - Esteban Valsecchi - YNgtg8 - @Esteban CryptoBull13 
 - JDxvP6    - @Vamshi
